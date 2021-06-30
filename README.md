@@ -177,3 +177,4 @@ Whenever one of the bookmarks above make any change to the UI, the change will n
 
 Whenever you do any change do not forget to add/remove anything manually from the textfield, so you get the change included in the Excute Query.
 
+![Alt Text](https://github.com/saitBaharoglu/solrBookmarks/blob/main/ezgif-6-464aa6373414.gif)
