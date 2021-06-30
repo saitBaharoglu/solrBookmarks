@@ -175,5 +175,5 @@ Whenever one of the bookmarks above make any change to the UI, the change will n
 - sort: requestTimedesc: add a space like: requestTime desc.
 - fl: add a space right after the first comma.
 
-Whenever you do any change do not forget to add/remove anything manually from the textfield.
+Whenever you do any change do not forget to add/remove anything manually from the textfield, so you get the change included in the Excute Query.
 
